@@ -1,1 +1,1 @@
-<a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?event=video_description&amp;v=z3GS5oYGq5U&amp;redir_token=-wjrbpEEkRlvGpPekiSqDm0UrYx8MTU4NzkzMTg4N0AxNTg3ODQ1NDg3&amp;q=https%3A%2F%2Ft.me%2Ffreelancer_lifestyle" rel="nofollow" target="_blank" dir="auto">https://t.me/freelancer_lifestyle</a>
+здесь создать файл index.html.Это будет конечный файл.Другие файлы создаются в папке #Исходники 
