@@ -38,3 +38,57 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
+body{
+	font-family: "Times New Roman PSMT";
+	/* font-size: 20px; */
+	/* width: 841px; */
+	/* margin: 10px ; */
+	background: url('/img/triangle-mosaic.png');
+}
+.content {
+	padding: 168px 0 137px 0;
+	max-width: 841px;
+	margin: 0 auto;
+}
+.content-top {
+max-width: 721px;
+text-align: center;
+}
+.content-text1 {
+/* Style for "Travel" */
+color: #273d46;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;;
+font-size: 14px;
+/* line-height: 40px; */
+text-transform: uppercase;
+letter-spacing: 2.8px;
+padding: 0 383px 28px;
+
+/* Text style for "Travel" */
+}
+.content-text2 {
+/* Style for "Donec sed" */
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 36px;
+line-height: 50px;
+
+}
+
+
+.content-img {
+}
+.content-img__item {
+}
+
+
+.content-bottom {
+}
+.content-bottom__text {
+}
+.content-bottom-info {
+}
+.content-bottom-info-list {
+}
+.content-bottom-info-link {
+}
